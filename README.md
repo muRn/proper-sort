@@ -17,6 +17,9 @@ https://stackoverflow.com/questions/34521797/how-to-add-multiple-classes-to-a-re
 todo:
 1) test with different browsers and extensions since currently tested only with firefox+tampermonkey
 2) upload this script to popular userscript repositories:
+
 [Userscript.Zone Search](https://www.userscript.zone/)
+
 [GreasyFork](https://greasyfork.org/)
+
 [OpenUserJS](https://openuserjs.org/)
