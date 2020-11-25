@@ -9,7 +9,9 @@ I know JS a little, so I changed this behavior. After enabling the userscript, a
 Big advantage of my implementation is not bringing any libraries or creating clones of the elements. Script just takes existing elements and rearranges them using vanilla js. It doesn't break any existing StackOverflow's javascript code.
 
 examples to try on:
+
 https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github
+
 https://stackoverflow.com/questions/34521797/how-to-add-multiple-classes-to-a-reactjs-component
 
 todo:
