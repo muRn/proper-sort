@@ -14,6 +14,12 @@ https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github
 
 https://stackoverflow.com/questions/34521797/how-to-add-multiple-classes-to-a-reactjs-component
 
+https://stackoverflow.com/questions/27726066/jwt-refresh-token-flow
+
+https://stackoverflow.com/questions/35122376/how-can-i-remove-a-file-from-git-within-intellij-vcs
+
+https://stackoverflow.com/questions/25747499/java-8-difference-between-two-localdatetime-in-multiple-units
+
 todo:
 1) test with different browsers and extensions since currently tested only with firefox+tampermonkey
 2) upload this script to popular userscript repositories:
