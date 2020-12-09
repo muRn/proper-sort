@@ -1,4 +1,4 @@
-# proper-sort
+# Why?
 
 Let's face it: we all use StackOverflow. Often using it is considered a bad practice. To get an answer you'd better read an article, or docs, or even a book about things you have questions about. But sometimes we all just type in the question, read the first answer, copy some piece and not dig too deep, right?
 
@@ -8,7 +8,12 @@ I know JS a little, so I changed this behavior. After enabling the userscript, a
 
 Big advantage of my implementation is not bringing any libraries or creating clones of the elements. Script just takes existing elements and rearranges them using vanilla js. It doesn't break any existing StackOverflow's javascript code.
 
-examples to try on:
+# Installation
+
+1. Install add-on for your browser: [Tampermonkey](https://www.tampermonkey.net/) / [Greasemonkey](https://www.greasespot.net/)
+2. [Install the userscript](https://github.com/muRn/proper-sort/raw/main/proper-sort.user.js)
+
+## Examples to try on
 
 https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github
 
@@ -22,12 +27,6 @@ https://stackoverflow.com/questions/25747499/java-8-difference-between-two-local
 
 https://stackoverflow.com/questions/52704/how-do-i-discard-unstaged-changes-in-git
 
-todo:
+## todo
 1) test with different browsers and extensions since currently tested only with firefox+tampermonkey
-2) upload this script to popular userscript repositories:
-
-[Userscript.Zone Search](https://www.userscript.zone/)
-
-[GreasyFork](https://greasyfork.org/)
-
-[OpenUserJS](https://openuserjs.org/)
+2) upload this script to popular userscript repositories: [Userscript.Zone Search](https://www.userscript.zone/), [GreasyFork](https://greasyfork.org/), [OpenUserJS](https://openuserjs.org/)
