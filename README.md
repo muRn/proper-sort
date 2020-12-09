@@ -20,6 +20,8 @@ https://stackoverflow.com/questions/35122376/how-can-i-remove-a-file-from-git-wi
 
 https://stackoverflow.com/questions/25747499/java-8-difference-between-two-localdatetime-in-multiple-units
 
+https://stackoverflow.com/questions/52704/how-do-i-discard-unstaged-changes-in-git
+
 todo:
 1) test with different browsers and extensions since currently tested only with firefox+tampermonkey
 2) upload this script to popular userscript repositories:
